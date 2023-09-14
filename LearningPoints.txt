@@ -53,4 +53,6 @@ App Router vs Pages
 
 19. have an error because I'm using use form which is obviously in the hook meaning it uses a context 
 
-20.
+20. className="animate-spin" for loading
+
+21. prisma for limiting api. npm i -D prisma.
